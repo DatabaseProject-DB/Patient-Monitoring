@@ -1,2 +1,5 @@
-# Patient-Monitoring
-Creazione di un sistema di monitoraggio per tutelare i pazienti affetti da malattie respiratorie in tutto il territorio nazionale. L'intero sistemare viene gestito tramite un database che tiene traccia dello stato attuale dei pazienti attraverso diversi sistemi di supporto e gestisce il trasferimento presso strutture sanitarie nel caso di malessere
+# Database Project 2021/22
+
+Repository for Database's Project 21/22 - Università degli Studi di Padova
+
+Contributors: Michael Amista', Marco Brigo
